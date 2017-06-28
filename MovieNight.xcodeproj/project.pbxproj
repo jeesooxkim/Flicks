@@ -142,6 +142,7 @@
 				TargetAttributes = {
 					6CB583991E34496F00C9CAF5 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = GTPXQT49JS;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -356,6 +357,7 @@
 			baseConfigurationReference = 787D9CDC0644BA636BD16F46 /* Pods-MovieNight.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = GTPXQT49JS;
 				INFOPLIST_FILE = MovieNight/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = codePath.com.MovieNight;
@@ -369,6 +371,7 @@
 			baseConfigurationReference = 7124CE7F0121D2BD977C810E /* Pods-MovieNight.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = GTPXQT49JS;
 				INFOPLIST_FILE = MovieNight/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = codePath.com.MovieNight;

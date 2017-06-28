@@ -102,7 +102,7 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
         
         //let imageURL = NSURL(string: baseURL + posterPath)
         
-        let imageRequest = NSURLRequest(url: NSURL(string: baseURL + posterPath) as! URL) as URLRequest
+        let imageRequest = NSURLRequest(url: NSURL(string: baseURL + posterPath)! as URL) as URLRequest
         
         cell.posterView.setImageWith(
             imageRequest,
